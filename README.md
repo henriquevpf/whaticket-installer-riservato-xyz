@@ -13,8 +13,6 @@ Agora, tudo que você precisa fazer é torná-lo executável:
 sudo chmod +x ./whaticket-installer/whaticket
 ```
 
-### usage
-
 Após baixá-lo e torná-lo executável, você precisa **navegar** no diretório do instalador e **executar o script com sudo**:
 
 ```bash
