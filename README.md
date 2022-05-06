@@ -4,7 +4,7 @@ Instalação:
 ```bash
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git
-git clone https://github.com/henriquevpf/whaticket-installer/whaticket-installer.git
+git clone https://github.com/henriquevpf/whaticket-installer.git
 ```
 
 Agora, tudo que você precisa fazer é torná-lo executável:
