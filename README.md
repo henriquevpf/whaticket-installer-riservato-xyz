@@ -1,5 +1,10 @@
 Instalador Whaticket. (créditos a riservato-xyz)
 
+Verificar arquivos hosts:
+```bash
+nano /etc/hosts 
+```
+
 Instalação:
 ```bash
 sudo apt -y update && apt -y upgrade
