@@ -1,5 +1,7 @@
 Instalador Whaticket. (créditos a riservato-xyz)
 
+## Whaticket: https://github.com/dev-stupid-codes/whaticket
+
 Verificar arquivos hosts:
 ```bash
 nano /etc/hosts 
